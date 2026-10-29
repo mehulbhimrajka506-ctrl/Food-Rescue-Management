@@ -1,0 +1,9 @@
+- [x] Phase 1 — Scaffold & Data Layer: project baseline and separate-file monorepo structure
+- [ ] Phase 2 — Auth: login/register and demo access
+- [ ] Phase 3 — Core Rescue Flow: donation to delivery lifecycle
+- [ ] Phase 4 — Real-Time Layer: sockets and live tracking
+- [ ] Phase 5 — Role Dashboards: donor, shelter, driver, admin views
+- [ ] Phase 6 — Map, Impact, Notifications
+- [ ] Phase 7 — Landing Page
+- [ ] Phase 8 — AI Features
+- [ ] Phase 9 — Demo Mode & Final Polish
